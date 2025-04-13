@@ -1,8 +1,7 @@
 🚀 Project: Exam Prep Chatbot – Your AI Study Buddy
 🎯 A smart assistant that explains tough academic questions in simple language using Google Gemini AI – built for students who need fast, clear, and friendly help before exams.
 
-📽️ Demo Video 🔗 YOUTUBE LINK – [Add your demo link here]
-
+📽️ Demo Video 🔗 YOUTUBE LINK – https://youtu.be/FmlZbdOZOFo
 🧠 Project Description
 College exams can be brutal, especially when you're trying to understand complex concepts at the last minute. Enter Exam Prep Chatbot – your personal AI tutor that simplifies any academic question into beginner-friendly explanations.
 
